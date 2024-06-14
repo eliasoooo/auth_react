@@ -7,8 +7,8 @@
 
 # testing
 /coverage
-/src/tests/login.test.js
-/src/components/Login.jsx
+
+
 
 # production
 /build
